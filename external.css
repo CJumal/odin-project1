@@ -1,0 +1,45 @@
+
+body {
+margin: 0px 0px 0px 0px;
+text-align: center;
+}
+
+h1#header {
+    background-color: #282828;
+    color: #ffffff;
+    text-align: center;
+    font-size: 64px;
+    margin-top: 0px;
+    padding: 25px;
+}
+
+div.anime {
+    background-color: #282828;
+    color: #ffffff;
+    height: 250px;
+    width: auto;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid #282829;
+    border-radius: 25px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    border: 5px solid #ffffff;
+    display: block;
+}
+a.title {
+    color: #ffffff;
+    align-items: center;
+}
+
+h2 {
+    margin: 10px;
+}
